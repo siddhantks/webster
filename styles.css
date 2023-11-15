@@ -41,7 +41,7 @@ h1 {
 }
 
 body {
-    background-image: url('img/flower.avif');
+    background-image: url('flower.avif');
 
     background-repeat: no-repeat;
     background-size: contain;
